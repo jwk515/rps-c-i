@@ -1,4 +1,4 @@
-# my-first-repo-summer-2025
+# rps game with continuous integration
 
 ## Setup
 
