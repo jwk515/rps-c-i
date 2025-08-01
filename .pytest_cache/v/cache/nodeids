@@ -1,1 +1,4 @@
-[]
+[
+  "test/rps_test.py::test_example",
+  "test/rps_test.py::test_winner"
+]

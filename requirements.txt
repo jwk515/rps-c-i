@@ -2,7 +2,8 @@
 
 # packages used in the app:
 
-# ...
+# packages used in this app
+flask
 
 
 # packages used for testing:
